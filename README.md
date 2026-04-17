@@ -6,7 +6,7 @@
 **University:** Northeastern University\
 
 ## Project Description
-**Project Goal:** Predict the budget of a film given key characteristics of the film, including genre and runtime
+**Project Goal:** Predict the budget of a film given key characteristics of the film, including genre and runtime\
 **Models Evaluated:**\
 *Linear Regression with Basis Expansions with scikit-learn\
 *Random Forest Regression with scikit-learn\
