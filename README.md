@@ -3,14 +3,20 @@
 **Class:** CS6140 Machine Learning\
 **Semester:** Spring 2026\
 **Author:** Margaret Bertoni\
-**University:** Northeastern University\
+**University:** Northeastern University
 
 ## Project Description
 **Project Goal:** Predict the budget of a film given key characteristics of the film, including genre and runtime\
 **Models Evaluated:**\
 *Linear Regression with Basis Expansions with scikit-learn\
 *Random Forest Regression with scikit-learn\
-*Neural Networks with Pytorch\
+*Deep Neural Networks with Pytorch\
 
 ## Runtime Instructions
-The analysis was performed using the [*film-bertoni.ipynb*](/film-bertoni.ipynb) Jupyter Notebook. You can re-run the analysis by running [*film-bertoni.ipynb*](/film-bertoni.ipynb)
+The analysis performed was broken out into individual Jupyter Notebooks for organization and to decrease runtime of individual notebooks. The analysis can be re-ran in the following files: 
+**Linear Regression** [Linear_Regression](Linear_Regression.ipynb)
+**Random Forest Regression** [Random_Forest](Random_Forest.ipynb)
+**Deep Neural Networks ReLU** [NN_ReLU](NN_ReLU.ipynb)
+**Deep Neural Networks Leaky ReLU** [NN_Leaky_ReLU](NN_Leaky_ReLU.ipynb)
+
+Packages used include pandas, torch, torchmetrics, and matplotlib.pyplot. If you are missing any of these packages, you will need to install them to run this locally.  
