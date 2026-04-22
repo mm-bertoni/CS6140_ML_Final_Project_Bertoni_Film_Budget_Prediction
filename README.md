@@ -13,10 +13,10 @@
 *Deep Neural Networks with Pytorch\
 
 ## Runtime Instructions
-The analysis performed was broken out into individual Jupyter Notebooks for organization and to decrease runtime of individual notebooks. The analysis can be re-ran in the following files: 
-**Linear Regression** [Linear_Regression](Linear_Regression.ipynb)
-**Random Forest Regression** [Random_Forest](Random_Forest.ipynb)
-**Deep Neural Networks ReLU** [NN_ReLU](NN_ReLU.ipynb)
-**Deep Neural Networks Leaky ReLU** [NN_Leaky_ReLU](NN_Leaky_ReLU.ipynb)
+The analysis performed was broken out into individual Jupyter Notebooks for organization and to decrease runtime of individual notebooks. The analysis can be re-ran in the following files: \
+**Linear Regression** [Linear_Regression](Linear_Regression.ipynb) \
+**Random Forest Regression** [Random_Forest](Random_Forest.ipynb) \
+**Deep Neural Networks ReLU** [NN_ReLU](NN_ReLU.ipynb) \
+**Deep Neural Networks Leaky ReLU** [NN_Leaky_ReLU](NN_Leaky_ReLU.ipynb) \
 
 Packages used include pandas, torch, torchmetrics, and matplotlib.pyplot. If you are missing any of these packages, you will need to install them to run this locally.  
